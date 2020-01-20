@@ -1,7 +1,7 @@
 QTextEdit
 {
     background: @groundBase;
-    color: @mainText;
+    color: #FFFFFF;
 }
 
 QGraphicsView
